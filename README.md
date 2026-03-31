@@ -73,3 +73,8 @@ chmod +x script4.sh
 
 chmod +x script5.sh
 ./script5.sh
+
+
+Conclusion
+
+This project helped in understanding shell scripting, open-source tools, and system-level operations in a Linux-like environment.
